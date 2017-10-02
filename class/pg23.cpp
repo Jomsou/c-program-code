@@ -12,5 +12,5 @@ int main()
 	else{
 		printf("%d年不是闰年", year); 
 	}
-	return 0; n
+	return 0; 
 } 
