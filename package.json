@@ -1,0 +1,16 @@
+{
+  "name": "c-program-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "node ./update/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.cnpmjs.org/Zenquan/c-program-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
